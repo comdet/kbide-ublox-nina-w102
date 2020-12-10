@@ -1,7 +1,7 @@
 module.exports = {    
     name : 'kbide-ublox-nina-w102',
     platform : 'arduino-esp32',
-    title : 'U-BLOX NINA W120',
+    title : 'U-BLOX NINA W102',
     description : 'U-BLOX NINA W120.\n',
     author : 'Comdet Phueadphut | partition by Miguel Alexandre Wisintainer',
     website : 'https://docs.espressif.com/projects/esp-idf/en/latest/hw-reference/get-started-devkitc.html',
