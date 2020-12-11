@@ -8,5 +8,5 @@ module.exports = {
     email : 'comdet.p@gmail.com',
     git : 'https://github.com/comdet/kbide-ublox-nina-w102/',
     image : '/static/EVK-NINA-W1-2CI.png',
-    version : '1.0.0'
+    version : '1.0.1'
 };
